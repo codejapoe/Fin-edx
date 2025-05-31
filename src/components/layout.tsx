@@ -8,8 +8,8 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Fin-edx | Financial Education Platform",
-  description: "Learn financial literacy and investment skills with Fin-edx",
+  title: "Fin-Edx | Financial Education Platform",
+  description: "Learn financial literacy and investment skills with Fin-Edx",
     generator: 'v0.dev'
 }
 

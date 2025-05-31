@@ -39,7 +39,7 @@ export function LoginForm() {
       await new Promise((resolve) => setTimeout(resolve, 1000))
       toast({
         title: "Login successful",
-        description: "Welcome back to Fin-edx!",
+        description: "Welcome back to Fin-Edx!",
       })
       navigate("/dashboard")
     } catch (error) {

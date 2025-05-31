@@ -52,5 +52,5 @@ export default tseslint.config({
   },
 })
 ```
-# Fin-edx
-# Fin-edx
+# Fin-Edx
+# Fin-Edx
